@@ -14,4 +14,4 @@ def append_files(master_file_name_path, list_of_files, num_lines_per_sub):
                         for line in infile:
                             output.write(line)
                 else:
-                    print 'subject has incorrect number of trials for this experiment:', fname
+                    print '***** subject has incorrect number of trials for this experiment:', fname
