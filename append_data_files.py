@@ -25,6 +25,7 @@ file_path = '/Users/kfranko/Google Drive/Young_Hall_data_analysis' \
 
 file_path = '/Users/kylefrankovich/Google Drive/Young_Hall_data_analysis/analysis_scripts/analysis_functions/python_analysis_functions/YH_LOTP_mk6_master_data.txt'
 
+
 file_list_mk2 = ['3_LOTP_ladies_and_gentlemen.txt','4_LOTP_ladies_and_gentlemen.txt',
              '5_LOTP_ladies_and_gentlemen.txt','6_LOTP_ladies_and_gentlemen.txt',
              '8_LOTP_ladies_and_gentlemen.txt','9_LOTP_ladies_and_gentlemen.txt',
